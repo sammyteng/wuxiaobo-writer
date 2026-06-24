@@ -1,0 +1,41 @@
+{
+  "skill": "wuxiaobo-writer",
+  "title": "吴晓波风格财经故事写作流程",
+  "nodes": [
+    {
+      "title": "确认参数",
+      "subtitle": "定主题/情绪/字数/真实人物",
+      "type": "io"
+    },
+    {
+      "title": "找故事线",
+      "subtitle": "定切入人物与历史纵深起点",
+      "type": "code"
+    },
+    {
+      "title": "信息采集",
+      "subtitle": "调商业史/传记/财经数据",
+      "type": "reuse"
+    },
+    {
+      "title": "套骨架",
+      "subtitle": "五套叙事模板选一",
+      "type": "reuse"
+    },
+    {
+      "title": "按骨架写稿",
+      "subtitle": "故事先行+历史纵深+个人立场",
+      "type": "code"
+    },
+    {
+      "title": "自检清单",
+      "subtitle": "查故事/纵深/立场/去鸡汤",
+      "type": "gate"
+    },
+    {
+      "title": "交付文章",
+      "subtitle": "成稿吴晓波风格财经文",
+      "type": "io"
+    }
+  ]
+}
